@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+id = "vrc_faceauto"
+version = "0.7.0"
+name = "VRC FaceAuto"
+tagline = "Build blink and mouth shapes and add only missing facial parts"
+maintainer = "VRC FaceAuto contributors"
+type = "add-on"
+tags = ["Animation", "User Interface"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+
+
+
+
+
+
+

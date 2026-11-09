@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.blend[0-9]
+/lab/output/
+/dist/
+/vrc_faceauto-*.zip
